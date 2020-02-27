@@ -1,0 +1,10 @@
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\obj\Debug\Criptografia.csprojAssemblyReference.cache
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\obj\Debug\Criptografia.interfaz.resources
+C:\Users\jose\source\repos\imjoseestrada\Criptografia\obj\Debug\Criptografia.configuracion.resources
